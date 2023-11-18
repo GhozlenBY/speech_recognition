@@ -24,7 +24,7 @@ Nous avons entrepris ce projet pour explorer les capacités de l'apprentissage a
 • Enregistrement de plusieurs échantillons pour chaque mot-clé (rouge, vert, jaune) et pour le bruit de fond.
 • Configuration du microphone intégré pour une durée d'échantillonnage de 2500 ms à une fréquence de 16 000 Hz.
 • Pour chaque label (couleur), nous avons enregistré des échantillons d'une durée totale de 1,12 minute afin d'obtenir un volume de données suffisant pour un entraînement efficace du modèle. De plus, une durée équivalente de 1,12 minute de silence (noise) a été enregistrée pour entraîner le modèle à reconnaître les moments de non-parole.
-
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/1#issue-2000572186)
 
 5. Création de l'Impulsion
 • Ajout d'un bloc de traitement audio et d'un bloc d'apprentissage dans Edge Impulse.
