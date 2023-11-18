@@ -28,16 +28,25 @@ Nous avons entrepris ce projet pour explorer les capacités de l'apprentissage a
 
 5. Création de l'Impulsion
 • Ajout d'un bloc de traitement audio et d'un bloc d'apprentissage dans Edge Impulse.
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/3#issue-2000574470)
 • Génération des caractéristiques des données collectées.
 
 6. Entraînement et Validation du Modèle
+• génération des features
+ ![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/2#issue-2000573876)
 • Utilisation de l'outil NN Classifier d'Edge Impulse pour l'entraînement du modèle.
 • Évaluation des performances du modèle et ajustements si nécessaire pour atteindre une haute précision.
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/4#issue-2000574759)
 
 7. Déploiement et Test du Modèle
 • Compilation et exportation du modèle entraîné sous forme de bibliothèque Arduino.
-• Test du modèle en temps réel avec l'Arduino Nano 33 BLE Sense.
+• Test du modèle en temps réel avec l'Arduino Nano 33 BLE Sense ou avec un téléphone en scannant le code QR sut la fenètre deployment.
 
 # Résultats et Observations
 • Le modèle a montré une capacité élevée à reconnaître les mots-clés spécifiés.
-• La précision globale du modèle était satisfaisante, avec peu de fausses détections ou de manquements.
+• La précision globale du modèle était satisfaisante, avec peu de fausses détections ou de manquements( comme ci-dessous).
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/8#issue-2000575488)
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/7#issue-2000575398)
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/6#issue-2000575305)
+![alt tag](https://github.com/GhozlenBY/speech_recognition/issues/5#issue-2000575208)
+
